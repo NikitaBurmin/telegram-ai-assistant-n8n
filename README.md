@@ -4,7 +4,7 @@ AI Telegram Assistant with Persistent Memory
 
 An AI-powered Telegram assistant built with n8n, OpenAI, Supabase (PostgreSQL) and Google Sheets.
 
-Features
+<h2>Features</h2>
 🤖 AI-powered Telegram chatbot
 🧠 Short-term conversation memory
 💾 Long-term memory using PostgreSQL (Supabase)
