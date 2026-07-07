@@ -13,7 +13,7 @@ An AI-powered Telegram assistant built with n8n, OpenAI, Supabase (PostgreSQL) a
 📝 Automatic conversation summaries
 ⚡ Built with n8n
 
-Technologies
+<h3>Technologies</h3>
 n8n
 OpenAI API
 Telegram Bot API
