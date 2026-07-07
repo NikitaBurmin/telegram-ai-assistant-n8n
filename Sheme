@@ -1,0 +1,13 @@
+Workflow
+
+Telegram
+    ↓
+n8n
+    ↓
+OpenAI
+    ↓
+Google Sheets (Knowledge Base)
+    ↓
+Supabase (PostgreSQL Memory)
+    ↓
+Telegram Response
