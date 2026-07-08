@@ -6,17 +6,17 @@ An AI-powered Telegram assistant built with n8n, OpenAI, Supabase (PostgreSQL) a
 
 <h2>Features</h2>
 <p>🤖 AI-powered Telegram chatbot</p>
-🧠 Short-term conversation memory
-💾 Long-term memory using PostgreSQL (Supabase)
-📚 Knowledge base powered by Google Sheets
-👤 Personalized responses
-📝 Automatic conversation summaries
-⚡ Built with n8n
+<p>🧠 Short-term conversation memory</p>
+<p>💾 Long-term memory using PostgreSQL (Supabase)</p>
+<p>📚 Knowledge base powered by Google Sheets</p>
+<p>👤 Personalized responses</p>
+<p>📝 Automatic conversation summaries</p>
+<p>⚡ Built with n8n</p>
 
 <h3>Technologies</h3>
-n8n
-OpenAI API
-Telegram Bot API
-Supabase
-PostgreSQL
-Google Sheets
+<p>n8n</p>
+<p>OpenAI API</p>
+<p>Telegram Bot API</p>
+<p>Supabase</p>
+<p>PostgreSQL</p>
+<p>Google Sheets</p>
